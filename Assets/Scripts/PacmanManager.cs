@@ -23,6 +23,7 @@ public class PacmanManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         // man move and change animation
         if (man.transform.position == leftup)
         {

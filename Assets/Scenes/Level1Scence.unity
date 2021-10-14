@@ -8659,6 +8659,7 @@ GameObject:
   - component: {fileID: 1533970516}
   - component: {fileID: 1533970521}
   - component: {fileID: 1533970520}
+  - component: {fileID: 1533970519}
   m_Layer: 0
   m_Name: Normal man(pacman)
   m_TagString: Untagged
@@ -8750,7 +8751,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1533970520
+--- !u!114 &1533970519
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8758,6 +8759,19 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1533970515}
   m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c3d15c910595fa4a84fc52e6a69ab9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  man: {fileID: 1533970515}
+--- !u!114 &1533970520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533970515}
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 76e0889ba080a9147ba021984ddc7483, type: 3}
   m_Name: 
@@ -8776,7 +8790,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1533970515}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9fdc58943a6fa164582ca54adc2d83cc, type: 3}
   m_Name: 
