@@ -3539,7 +3539,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3918131613443293173, guid: 5e06dd5223f4af3489c7b23e7b6190ee, type: 3}
       propertyPath: m_Name
-      value: Level-1
+      value: quit
       objectReference: {fileID: 0}
     - target: {fileID: 3918131613443293173, guid: 5e06dd5223f4af3489c7b23e7b6190ee, type: 3}
       propertyPath: m_TagString

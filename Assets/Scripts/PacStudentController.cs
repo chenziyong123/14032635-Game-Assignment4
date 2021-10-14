@@ -15,43 +15,50 @@ public class PacStudentController : MonoBehaviour
     private int diffy =1;
     private int lastInput;
 
+    private int currentInput =0 ;
     private int firstInput = 0;
+   private float now;
 
-    private float StarTime ;
     // Start is called before the first frame update
     void Start()
     {
          newaddress = man.transform.position;
-       // StarTime = Time.time;
+       
     }
 
     // Update is called once per frame
     void Update()
     {
-        //Debug.Log(StarTime);
+        
+        
         if (Input.GetKeyDown(KeyCode.W)){
            lastInput = 1;
+           
         }
         if (Input.GetKeyDown(KeyCode.S))
         {
             lastInput = 2;
+           
         }
         if (Input.GetKeyDown(KeyCode.A))
         {
             lastInput = 3;
+          
         }  
         if (Input.GetKeyDown(KeyCode.D))
         {
-            lastInput = 4;    
+            lastInput = 4;  
+           
         }
         if(firstInput == 0){
             firstInput = lastInput;
         }
         
         
-       // Debug.Log(Time.time);
-
+     
+   
      MOVE();
+      
       
 
 
@@ -61,28 +68,31 @@ public class PacStudentController : MonoBehaviour
 
 public void MOVE(){ 
     
-     if (firstInput == 1 )
-        {  
+    now += Time.deltaTime;
+    
+          if (now >= 0.2f){
+
+    if (firstInput == 1  )
+        {
               if(diffenty()==1){
                y=y-1;
            }else{
                y=y+1;
            }
-            Debug.Log(y);
-             if(checknumber()&& y<14){
+             if(checknumber()==1&& y<14){
             newaddress = new Vector3(man.transform.position.x,man.transform.position.y+1,man.transform.position.z);
-           man.transform.position = Vector3.Lerp(man.transform.position, newaddress , 1);
-            StarTime = Time.time;
-           
+            
+           man.transform.position = Vector3.Lerp(man.transform.position, newaddress , 10);
+          Debug.Log(y);
+           now =0;
              }else if(y<14){
-                     if(diffenty()==1){
+             if(diffenty()==1){
                y=y+1;
            }else{
                y=y-1;
            }
              
-             
-        }
+             }
         }
 
         if (firstInput == 2  )
@@ -92,12 +102,13 @@ public void MOVE(){
            }else{
                y=y-1;
            }
-             if(checknumber()&& y<14){
+             if(checknumber()==1&& y<14){
             newaddress = new Vector3(man.transform.position.x,man.transform.position.y-1,man.transform.position.z);
            man.transform.position = Vector3.Lerp(man.transform.position, newaddress , 1);
           Debug.Log(y);
+           now =0;
              }else if(y<14){
-                     if(diffenty()==1){
+           if(diffenty()==1){
                y=y-1;
            }else{
                y=y+1;
@@ -108,15 +119,16 @@ public void MOVE(){
 
         if (firstInput == 3)
         {
-              if(different()==1){
+            if(different()==1){
                x=x-1;
            }else{
                x=x+1;
            }
-             if(checknumber()&& x<14){
+             if(checknumber()==1&& x<14){
             newaddress = new Vector3(man.transform.position.x-1,man.transform.position.y,man.transform.position.z);
            man.transform.position = Vector3.Lerp(man.transform.position, newaddress , 1);
            Debug.Log(x);
+           now =0;
              }else if(x<14){
         if(different()==1){
             x=x+1;
@@ -137,11 +149,11 @@ public void MOVE(){
            }
             
             
-            if(checknumber()&& x<14){
+            if(checknumber()==1&& x<14){
               newaddress = new Vector3(man.transform.position.x+1,man.transform.position.y,man.transform.position.z);
            man.transform.position = Vector3.Lerp(man.transform.position, newaddress , 1);
           Debug.Log(x);
-          StarTime = Time.time;
+           now =0;
             }else if(x<14){
 
         if(different()==1){
@@ -152,7 +164,7 @@ public void MOVE(){
               
             }
         }
-
+    }
 }
 
 public int diffenty(){
@@ -174,7 +186,8 @@ public int different(){
     return diff;
 }
 
-    public bool checknumber(){
+    public int checknumber(){
+        currentInput = lastInput;
           int[,] levelMap =
         {
             {1,2,2,2,2,2,2,2,2,2,2,2,2,7},
@@ -196,17 +209,43 @@ public int different(){
        
        
          
-       if(y==15 || x==14){
+       if(y==14 || x==14){
 
-           return true;
+           return 1;
        }else{
-         if(levelMap[y,x]==2 || levelMap[y,x]==1 || levelMap[y,x]==3 || levelMap[y,x]==4 || levelMap[y,x]==7 ){
+           
+         if(levelMap[y,x]==2 || levelMap[y,x]==1 || levelMap[y,x]==3 || levelMap[y,x]==4 || levelMap[y,x]==7 || levelMap[y,x]==0){
                 firstInput = lastInput;
-                return false;
-            }else {
-            return true;
-       }   
+                return 2;
+            }else if(diffenty()==1 && currentInput == 1 && levelMap[y-1,x]==5){
+
+            firstInput = lastInput;
+             return 1;
+            }else if(y<13&&diffenty()==-1 && currentInput == 1 && levelMap[y+1,x]==5){
+            firstInput = lastInput;
+            return 1;
+       }else if(y<13&&diffenty()==1 && currentInput == 2 && levelMap[y+1,x]==5){
+            firstInput = lastInput;
+             return 1;
+            }else if(diffenty()==-1 && currentInput == 2 && levelMap[y-1,x]==5){
+            firstInput = lastInput;
+            return 1;
+       }else if(different()==1 && currentInput == 3 && levelMap[y,x-1]==5){
+            firstInput = lastInput;
+             return 1;
+            }else if(x<13&&different()==-1 && currentInput == 3 && levelMap[y,x+1]==5){
+            firstInput = lastInput;
+            return 1;
+       }else if(x<13&&different()==1 && currentInput == 4 && levelMap[y,x+1]==5){
+            firstInput = lastInput;
+             return 1;
+            }else if(different()==-1 && currentInput == 4 && levelMap[y,x-1]==5){
+            firstInput = lastInput;
+            return 1;
        }
+        return 1;
+       }   
+       
        
     }
 
