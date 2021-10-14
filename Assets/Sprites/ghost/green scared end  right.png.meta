@@ -1,0 +1,1359 @@
+fileFormatVersion: 2
+guid: de94acc918abb8b4caa24bf8b4a07b5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5575036644267076360
+    second: green scared end  right_0
+  - first:
+      213: 7438422057376118521
+    second: green scared end  right_1
+  - first:
+      213: -2639571904599435683
+    second: green scared end  right_25
+  - first:
+      213: 3302833430523583747
+    second: green scared end  right_26
+  - first:
+      213: 2030360871982827637
+    second: green scared end  right_27
+  - first:
+      213: -6396245221343170156
+    second: green scared end  right_28
+  - first:
+      213: -2578684666974581642
+    second: green scared end  right_29
+  - first:
+      213: 1114054199222966219
+    second: green scared end  right_30
+  - first:
+      213: -3979693951785432840
+    second: green scared end  right_31
+  - first:
+      213: 5358684276875208342
+    second: green scared end  right_32
+  - first:
+      213: -2182164962309375493
+    second: green scared end  right_33
+  - first:
+      213: -5568157399907777317
+    second: green scared end  right_34
+  - first:
+      213: -3310708875098862681
+    second: green scared end  right_35
+  - first:
+      213: 2479152841444576779
+    second: green scared end  right_36
+  - first:
+      213: -2310186868288039566
+    second: green scared end  right_37
+  - first:
+      213: 6051633796553116203
+    second: green scared end  right_38
+  - first:
+      213: 3502110259191389029
+    second: green scared end  right_39
+  - first:
+      213: -8749608822646883671
+    second: green scared end  right_40
+  - first:
+      213: 845604387038998963
+    second: green scared end  right_41
+  - first:
+      213: -2119466525244901969
+    second: green scared end  right_42
+  - first:
+      213: 1528479750446762636
+    second: green scared end  right_43
+  - first:
+      213: -4211052371940440898
+    second: green scared end  right_44
+  - first:
+      213: -8888356118774133220
+    second: green scared end  right_45
+  - first:
+      213: -4063453163640345092
+    second: green scared end  right_46
+  - first:
+      213: -2206595064918995895
+    second: green scared end  right_47
+  - first:
+      213: -7345511375655949062
+    second: green scared end  right_48
+  - first:
+      213: -8034806175671058345
+    second: green scared end  right_49
+  - first:
+      213: -2670636914595892175
+    second: green scared end  right_50
+  - first:
+      213: 2973724920688397277
+    second: green scared end  right_51
+  - first:
+      213: -1299347994595068568
+    second: green scared end  right_52
+  - first:
+      213: 8696983714630208929
+    second: green scared end  right_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green scared end  right_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 858
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4dca8b5bd71a2b0800000000000000
+      internalID: -5575036644267076360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 858
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6755363759a3760800000000000000
+      internalID: 7438422057376118521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 858
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ff5a8971c7937b0800000000000000
+      internalID: -5244023850309124264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 858
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaec0fbb16454c150800000000000000
+      internalID: 5891926991249133230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 858
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac1f9c4e52e517f0800000000000000
+      internalID: -642358477190128467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 792
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09b3d1e44385af0800000000000000
+      internalID: -407518256174493533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 792
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c125ef81d99be370800000000000000
+      internalID: 8352939059230089667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 792
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d62c113cb8106e0800000000000000
+      internalID: -1873062300076577529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 792
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22249fa135cbad0800000000000000
+      internalID: -2685179902503542047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 792
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260154509ed1689a0800000000000000
+      internalID: -6231260147767504798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 792
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14349b35d0e40fee0800000000000000
+      internalID: -1229396879125953727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 792
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aec6ea30c1a9450800000000000000
+      internalID: 6096215847736240680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 728
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1235fc1a0c8cfe750800000000000000
+      internalID: 6336503930407572257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 728
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a151b926ffb4e0800000000000000
+      internalID: -1963580253581236124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 728
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710ff7d57f0ab9a30800000000000000
+      internalID: 4223146059876003863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 728
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8e1a3af30d37ce0800000000000000
+      internalID: -1408553286690019086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 728
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519b99273bb0ce560800000000000000
+      internalID: 7344257957684164885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 655
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d6b919fa8e4feb0800000000000000
+      internalID: -4686865471426040432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 655
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac26f136faa33140800000000000000
+      internalID: 4698286810654452899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 655
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6edafe0c1154f60800000000000000
+      internalID: 8017834231955580606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 655
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1cc5976d1967e40800000000000000
+      internalID: 5653866732555387299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 655
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ab7c753a4f49990800000000000000
+      internalID: -7380004906963846536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 595
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae0eb4f31740cb60800000000000000
+      internalID: 7764283908622782114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 595
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae47a18bb63db180800000000000000
+      internalID: -9098055493256524113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 595
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e52d5340ff9c2a0800000000000000
+      internalID: -6716556975698452839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 531
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56df3b765b5e5bd0800000000000000
+      internalID: -2639571904599435683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 531
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d94a2818506dd20800000000000000
+      internalID: 3302833430523583747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 531
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578836ca47a4d2c10800000000000000
+      internalID: 2030360871982827637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 531
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fc852cd8fb37a0800000000000000
+      internalID: -6396245221343170156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 531
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ccb3535fba63cd0800000000000000
+      internalID: -2578684666974581642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 531
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79735446ae57f00800000000000000
+      internalID: 1114054199222966219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 531
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f80f09af6945c8c0800000000000000
+      internalID: -3979693951785432840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 465
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962e9255fedd5a40800000000000000
+      internalID: 5358684276875208342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 465
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9fe34478467b1e0800000000000000
+      internalID: -2182164962309375493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 465
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4c80d985ee9b2b0800000000000000
+      internalID: -5568157399907777317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 411
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abcff8a1dffd02d0800000000000000
+      internalID: -3310708875098862681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 411
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e443acf58b76220800000000000000
+      internalID: 2479152841444576779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 411
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2755bee784190ffd0800000000000000
+      internalID: -2310186868288039566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 358
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0c4200e8bbf350800000000000000
+      internalID: 6051633796553116203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 358
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b9a5bc9bef99030800000000000000
+      internalID: 3502110259191389029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 358
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa328a1225239680800000000000000
+      internalID: -8749608822646883671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 358
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b8f5b5b03cbb00800000000000000
+      internalID: 845604387038998963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 294
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53279bc642692e0800000000000000
+      internalID: -2119466525244901969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_43
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 294
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ac1cb1c30463510800000000000000
+      internalID: 1528479750446762636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 294
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48ce7cd265f85c0800000000000000
+      internalID: -4211052371940440898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 294
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e4c47d33736a480800000000000000
+      internalID: -8888356118774133220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_46
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 223
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda7c370e6bb97c0800000000000000
+      internalID: -4063453163640345092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 223
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c8f50ca799061e0800000000000000
+      internalID: -2206595064918995895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcaf6072508f0a90800000000000000
+      internalID: -7345511375655949062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 223
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750030c7a52ae7090800000000000000
+      internalID: -8034806175671058345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 143
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134777530edffead0800000000000000
+      internalID: -2670636914595892175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 143
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbcb555f0bc44920800000000000000
+      internalID: 2973724920688397277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8657b8612e9c7fde0800000000000000
+      internalID: -1299347994595068568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green scared end  right_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 143
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad04ef1c94e1b870800000000000000
+      internalID: 8696983714630208929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: cd8ae579614656249bdb39a929a88d74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6287364543212491316
+    second: yellow scared end  right_0
+  - first:
+      213: -7490565895653296996
+    second: yellow scared end  right_1
+  - first:
+      213: 4650490918617571209
+    second: yellow scared end  right_2
+  - first:
+      213: -5857692793786295692
+    second: yellow scared end  right_3
+  - first:
+      213: -3290141556771256914
+    second: yellow scared end  right_4
+  - first:
+      213: -3993919340885069553
+    second: yellow scared end  right_5
+  - first:
+      213: -3526294560823456668
+    second: yellow scared end  right_6
+  - first:
+      213: 4364830617757259715
+    second: yellow scared end  right_7
+  - first:
+      213: -1902382913049621803
+    second: yellow scared end  right_8
+  - first:
+      213: 3608767372919706970
+    second: yellow scared end  right_9
+  - first:
+      213: -7262324180925764115
+    second: yellow scared end  right_10
+  - first:
+      213: 4520981687106919834
+    second: yellow scared end  right_11
+  - first:
+      213: -7433786688512880561
+    second: yellow scared end  right_12
+  - first:
+      213: 7632762877563410153
+    second: yellow scared end  right_13
+  - first:
+      213: 2863963477598870844
+    second: yellow scared end  right_14
+  - first:
+      213: 6889112024667410520
+    second: yellow scared end  right_15
+  - first:
+      213: 263053744461974817
+    second: yellow scared end  right_16
+  - first:
+      213: -784838105648999186
+    second: yellow scared end  right_17
+  - first:
+      213: -3476560907527477349
+    second: yellow scared end  right_18
+  - first:
+      213: -102079286994370067
+    second: yellow scared end  right_19
+  - first:
+      213: 7513083261319696268
+    second: yellow scared end  right_20
+  - first:
+      213: 3631938253317899934
+    second: yellow scared end  right_21
+  - first:
+      213: -3664890206080881682
+    second: yellow scared end  right_22
+  - first:
+      213: 399308600439391224
+    second: yellow scared end  right_23
+  - first:
+      213: -8315569649377505223
+    second: yellow scared end  right_24
+  - first:
+      213: 6491751122667108518
+    second: yellow scared end  right_25
+  - first:
+      213: -9119289086816046807
+    second: yellow scared end  right_26
+  - first:
+      213: -6066157701431985638
+    second: yellow scared end  right_27
+  - first:
+      213: 7390041754456943220
+    second: yellow scared end  right_28
+  - first:
+      213: -8798952400535970721
+    second: yellow scared end  right_29
+  - first:
+      213: -4374232002868212455
+    second: yellow scared end  right_30
+  - first:
+      213: -1070289106751570944
+    second: yellow scared end  right_31
+  - first:
+      213: 2514307237428942629
+    second: yellow scared end  right_32
+  - first:
+      213: 5192415607424882156
+    second: yellow scared end  right_33
+  - first:
+      213: -6442463159025871804
+    second: yellow scared end  right_34
+  - first:
+      213: -1777894719694255478
+    second: yellow scared end  right_35
+  - first:
+      213: -8982805892897382292
+    second: yellow scared end  right_36
+  - first:
+      213: 5700109196488654598
+    second: yellow scared end  right_37
+  - first:
+      213: 2203859314795875007
+    second: yellow scared end  right_38
+  - first:
+      213: 7388555851890522446
+    second: yellow scared end  right_39
+  - first:
+      213: -718452667324693981
+    second: yellow scared end  right_40
+  - first:
+      213: -2138566363633408521
+    second: yellow scared end  right_41
+  - first:
+      213: -1338334125685334851
+    second: yellow scared end  right_42
+  - first:
+      213: 8829631792446833408
+    second: yellow scared end  right_43
+  - first:
+      213: -1061986008966255995
+    second: yellow scared end  right_44
+  - first:
+      213: 3366141448590126668
+    second: yellow scared end  right_45
+  - first:
+      213: 2750328689590880460
+    second: yellow scared end  right_46
+  - first:
+      213: 5549960956601855325
+    second: yellow scared end  right_47
+  - first:
+      213: 7298220046367145542
+    second: yellow scared end  right_48
+  - first:
+      213: 6962201899472770386
+    second: yellow scared end  right_49
+  - first:
+      213: -4232083658646546105
+    second: yellow scared end  right_50
+  - first:
+      213: -7849676032833756744
+    second: yellow scared end  right_51
+  - first:
+      213: 4714734785869787434
+    second: yellow scared end  right_52
+  - first:
+      213: -5066145724036794334
+    second: yellow scared end  right_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellow scared end  right_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 859
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdee64824bceb8a0800000000000000
+      internalID: -6287364543212491316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 859
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94fdee210a2c0890800000000000000
+      internalID: -7490565895653296996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 859
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f5163e9dcd98040800000000000000
+      internalID: 4650490918617571209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 859
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a900f707b45bea0800000000000000
+      internalID: -5857692793786295692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 859
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea506ef9fa11752d0800000000000000
+      internalID: -3290141556771256914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 789
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01bbf8258fb298c0800000000000000
+      internalID: -3993919340885069553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 789
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc9b0b7c5101fc0800000000000000
+      internalID: -3526294560823456668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 789
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c79b2c225ef29c30800000000000000
+      internalID: 4364830617757259715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 789
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da87e0e1d06995e0800000000000000
+      internalID: -1902382913049621803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 789
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5516eb3ecae41230800000000000000
+      internalID: 3608767372919706970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 789
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deda03882aa073b90800000000000000
+      internalID: -7262324180925764115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 789
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ddd0824e0cdbe30800000000000000
+      internalID: 4520981687106919834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 724
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4099278462e5d890800000000000000
+      internalID: -7433786688512880561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 724
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e694f3a5650de960800000000000000
+      internalID: 7632762877563410153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 724
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d19f3eb97deb720800000000000000
+      internalID: 2863963477598870844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 724
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505c28e2ea0b9f50800000000000000
+      internalID: 6889112024667410520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 724
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d0e73acfd86a300800000000000000
+      internalID: 263053744461974817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 657
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d992b6e1bb15f0800000000000000
+      internalID: -784838105648999186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 657
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a0d23646c0cfc0800000000000000
+      internalID: -3476560907527477349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 657
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de186c7ed67559ef0800000000000000
+      internalID: -102079286994370067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 657
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fc4ee8b65d34860800000000000000
+      internalID: 7513083261319696268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 657
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968a2b399c376230800000000000000
+      internalID: 3631938253317899934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 590
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebadb566c1b32dc0800000000000000
+      internalID: -3664890206080881682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 590
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c2f47e01aa8500800000000000000
+      internalID: 399308600439391224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 590
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93095df2679299c80800000000000000
+      internalID: -8315569649377505223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 521
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f0d45045571a50800000000000000
+      internalID: 6491751122667108518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 521
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921bb3044e6c17180800000000000000
+      internalID: -9119289086816046807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 521
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a75aed5bda0dba0800000000000000
+      internalID: -6066157701431985638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 521
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ae5b152d3be8660800000000000000
+      internalID: 7390041754456943220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 521
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9b7a1967d3e580800000000000000
+      internalID: -8798952400535970721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 521
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d05e74b2b9b43c0800000000000000
+      internalID: -4374232002868212455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 521
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c3a116ab19521f0800000000000000
+      internalID: -1070289106751570944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 463
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527552f6c1d94e220800000000000000
+      internalID: 2514307237428942629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 463
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce511cefb7a2f0840800000000000000
+      internalID: 5192415607424882156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 463
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d8b7f3e5c796a0800000000000000
+      internalID: -6442463159025871804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 402
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac4901c26a357e0800000000000000
+      internalID: -1777894719694255478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 402
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60e09322a9a65380800000000000000
+      internalID: -8982805892897382292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 402
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb4ad1d1bda1f40800000000000000
+      internalID: 5700109196488654598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 346
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba0859ce5ea59e10800000000000000
+      internalID: 2203859314795875007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 346
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49711ba66c698660800000000000000
+      internalID: 7388555851890522446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 346
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3220e280b1b8706f0800000000000000
+      internalID: -718452667324693981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 346
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5280f09394252e0800000000000000
+      internalID: -2138566363633408521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 285
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1eb714384d6de0800000000000000
+      internalID: -1338334125685334851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_43
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 285
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030a467557298a70800000000000000
+      internalID: 8829631792446833408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 285
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa12bf9511341f0800000000000000
+      internalID: -1061986008966255995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 285
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eeeea10dfe6be20800000000000000
+      internalID: 3366141448590126668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_46
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 208
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc841ae0f512b2620800000000000000
+      internalID: 2750328689590880460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6a87c51c650d40800000000000000
+      internalID: 5549960956601855325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 208
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e395ce67c784560800000000000000
+      internalID: 7298220046367145542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 208
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255df908db5be9060800000000000000
+      internalID: 6962201899472770386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 116
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74913a2c55e9445c0800000000000000
+      internalID: -4232083658646546105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 116
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1eb0dcc39501390800000000000000
+      internalID: -7849676032833756744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 116
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2132f9de4a1e6140800000000000000
+      internalID: 4714734785869787434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow scared end  right_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 116
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2283c6a3e4f61b9b0800000000000000
+      internalID: -5066145724036794334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 8ee01b93cd0137d468af31ce0d095744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1137919095756695235
+    second: blue scared end right_0
+  - first:
+      213: 6561006585083430420
+    second: blue scared end right_1
+  - first:
+      213: 7314126454927870428
+    second: blue scared end right_2
+  - first:
+      213: -7747978766424724837
+    second: blue scared end right_3
+  - first:
+      213: -2271241367038991189
+    second: blue scared end right_4
+  - first:
+      213: -6351297070831324941
+    second: blue scared end right_5
+  - first:
+      213: -8417021911090672276
+    second: blue scared end right_6
+  - first:
+      213: 6304417558946316945
+    second: blue scared end right_7
+  - first:
+      213: 3191854191057993991
+    second: blue scared end right_8
+  - first:
+      213: -452659937224906103
+    second: blue scared end right_9
+  - first:
+      213: -8586556268765394614
+    second: blue scared end right_10
+  - first:
+      213: 3962706860695364783
+    second: blue scared end right_11
+  - first:
+      213: 8827866321545741159
+    second: blue scared end right_12
+  - first:
+      213: -5077736911159584430
+    second: blue scared end right_13
+  - first:
+      213: -4470614736601146529
+    second: blue scared end right_14
+  - first:
+      213: -2742581705456376051
+    second: blue scared end right_15
+  - first:
+      213: 4919610868356517997
+    second: blue scared end right_16
+  - first:
+      213: 2468529332357718415
+    second: blue scared end right_17
+  - first:
+      213: 6905924293705761536
+    second: blue scared end right_30
+  - first:
+      213: 3153337536516647079
+    second: blue scared end right_31
+  - first:
+      213: 8000734078984426740
+    second: blue scared end right_32
+  - first:
+      213: 3900220508203309413
+    second: blue scared end right_33
+  - first:
+      213: -1087907095866857857
+    second: blue scared end right_34
+  - first:
+      213: -3664618892017180841
+    second: blue scared end right_35
+  - first:
+      213: -6337048263527254479
+    second: blue scared end right_36
+  - first:
+      213: -1609268264068823187
+    second: blue scared end right_37
+  - first:
+      213: -7822070981086435241
+    second: blue scared end right_38
+  - first:
+      213: 1527126638292054627
+    second: blue scared end right_39
+  - first:
+      213: 8432165825012334974
+    second: blue scared end right_40
+  - first:
+      213: 8317666577117554358
+    second: blue scared end right_41
+  - first:
+      213: -8505439485364361297
+    second: blue scared end right_42
+  - first:
+      213: -2038355542242017814
+    second: blue scared end right_43
+  - first:
+      213: 4481753836426671115
+    second: blue scared end right_44
+  - first:
+      213: -1268581768892990506
+    second: blue scared end right_45
+  - first:
+      213: -1153828406139985010
+    second: blue scared end right_46
+  - first:
+      213: 4105084829622173283
+    second: blue scared end right_47
+  - first:
+      213: -8626097791218614524
+    second: blue scared end right_48
+  - first:
+      213: 7329421643172950843
+    second: blue scared end right_49
+  - first:
+      213: 1819095263916904760
+    second: blue scared end right_50
+  - first:
+      213: 8731949356642329247
+    second: blue scared end right_51
+  - first:
+      213: 1659842401196870952
+    second: blue scared end right_52
+  - first:
+      213: -8352931223316132737
+    second: blue scared end right_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue scared end right_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 857
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d9428c9c4530f0800000000000000
+      internalID: -1137919095756695235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 858
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41685e83ab06d0b50800000000000000
+      internalID: 6561006585083430420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 857
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd94344424ff08560800000000000000
+      internalID: 7314126454927870428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 857
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2cfbcc56a97490800000000000000
+      internalID: -7747978766424724837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 858
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e77e920eea70e0800000000000000
+      internalID: -2271241367038991189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 795
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0be16f6f8abd7a0800000000000000
+      internalID: -6351297070831324941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 795
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc2caca2bb03b80800000000000000
+      internalID: -8417021911090672276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 795
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920bbc1e5acd7750800000000000000
+      internalID: 6304417558946316945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 795
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7018ad0c97ebb4c20800000000000000
+      internalID: 3191854191057993991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 795
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa8a57f24d7b9f0800000000000000
+      internalID: -452659937224906103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 795
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c55c219c66d880800000000000000
+      internalID: -8586556268765394614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 795
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa420ccf4ec5ef630800000000000000
+      internalID: 3962706860695364783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 729
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7634e5cb5a1e28a70800000000000000
+      internalID: 8827866321545741159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 729
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259917bae214889b0800000000000000
+      internalID: -5077736911159584430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 729
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b1349559f25f1c0800000000000000
+      internalID: -4470614736601146529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 729
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a9ce387460f9d0800000000000000
+      internalID: -2742581705456376051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 729
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d609a810508f54440800000000000000
+      internalID: 4919610868356517997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 665
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8160d4595af14220800000000000000
+      internalID: 2468529332357718415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 665
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6878d0815ff688c0800000000000000
+      internalID: -3997226893725632406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 665
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d94c1b0dc9185b0800000000000000
+      internalID: -5367836860699337322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 665
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ab093fe8aaf610800000000000000
+      internalID: 1655821558419792589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 665
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e308f219d286cd630800000000000000
+      internalID: 3953149117843079230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 601
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a6b4ece86f9c10800000000000000
+      internalID: 2062482521017722581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 601
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f6948d76f6eb0f0800000000000000
+      internalID: -1099318767230816363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 601
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff2db598ab26d10800000000000000
+      internalID: 2117459873931395006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 538
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e375ae5ea1c3f0000800000000000000
+      internalID: 4288210874816318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 538
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19cf7620bd3407f0800000000000000
+      internalID: -647324619665061603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 538
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61514bd8350bb9420800000000000000
+      internalID: 2637895879661720854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 538
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a8ab2dad813a60800000000000000
+      internalID: 7652053016780514842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 538
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c87e140161c8030800000000000000
+      internalID: 3498195269641014281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 538
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00382145e85c6df50800000000000000
+      internalID: 6905924293705761536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_31
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 538
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8eaf848c7e2cb20800000000000000
+      internalID: 3153337536516647079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 469
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49a305141580f60800000000000000
+      internalID: 8000734078984426740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 469
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d62153ed502630800000000000000
+      internalID: 3900220508203309413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 469
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76aa32a24af6e0f0800000000000000
+      internalID: -1087907095866857857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f5120a888a42dc0800000000000000
+      internalID: -3664618892017180841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 411
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b3ffed284e08a0800000000000000
+      internalID: -6337048263527254479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 410
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674ed34a0bbaa9e0800000000000000
+      internalID: -1609268264068823187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 341
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a374c2eb627390800000000000000
+      internalID: -7822070981086435241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 341
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3623f622691713510800000000000000
+      internalID: 1527126638292054627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 341
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e718c0f6422150570800000000000000
+      internalID: 8432165825012334974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 341
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b62b39dea94e6370800000000000000
+      internalID: 8317666577117554358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 280
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7a6401adb96f980800000000000000
+      internalID: -8505439485364361297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 281
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed37ba1f6e46b3e0800000000000000
+      internalID: -2038355542242017814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 281
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04b4fe6e53623e30800000000000000
+      internalID: 4481753836426671115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 281
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49052653, y: 0.40915933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb8983a97156ee0800000000000000
+      internalID: -1268581768892990506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 203
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8365488d27ccffe0800000000000000
+      internalID: -1153828406139985010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 204
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e797227e038f830800000000000000
+      internalID: 4105084829622173283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 204
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff1ac03c1f94880800000000000000
+      internalID: -8626097791218614524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 204
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.37957934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33326ac62657b560800000000000000
+      internalID: 7329421643172950843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 113
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831dc5a2189be3910800000000000000
+      internalID: 1819095263916904760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 113
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ed5f0dad1e2970800000000000000
+      internalID: 8731949356642329247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d8872aed1f80710800000000000000
+      internalID: 1659842401196870952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue scared end right_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 113
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36000434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c09f0ee4d641c80800000000000000
+      internalID: -8352931223316132737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
