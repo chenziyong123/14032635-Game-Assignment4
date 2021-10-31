@@ -21,19 +21,19 @@ public class UIManager : MonoBehaviour
     {
         DontDestroyOnLoad(gameObject);
         SceneManager.LoadScene("Level1Scence");
-        SceneManager.sceneLoaded += OnSceneLoaded;
+        
     }
     public void QuitGame()
     {
         SceneManager.LoadScene("StarScence");
-       // UnityEditor.EditorApplication.isPlaying = false;
     }
 
      public void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        if(GameObject.FindWithTag("QuitButton").GetComponent<Button>() != null){
         Button button = GameObject.FindWithTag("QuitButton").GetComponent<Button>();
         button.onClick.AddListener(() => QuitGame());
-       
+        }    
           
     }
 }
