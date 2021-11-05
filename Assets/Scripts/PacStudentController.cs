@@ -7,6 +7,7 @@ public class PacStudentController : MonoBehaviour
     public GameObject man;
     private Vector3 newaddress;
     public AudioSource WalkAudio;
+    public AudioSource eatSound;
      private Tweener tweener;
     public Animator a;
 
