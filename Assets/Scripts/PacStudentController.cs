@@ -10,7 +10,7 @@ public class PacStudentController : MonoBehaviour
      private Tweener tweener;
     public Animator a;
 
-    public GameObject particle;
+    public GameObject Particle;
     private int y = 1;
     private int x = 1;
     
@@ -55,9 +55,10 @@ public class PacStudentController : MonoBehaviour
         }
 
         
-     if(man.transform.position == newaddress){   
-        a.GetComponent<Animator>().enabled = true;
-         particle.SetActive(true);
+     if(man.transform.position == newaddress){ 
+         a.GetComponent<Animator>().enabled = true;  
+         Particle.SetActive(true);
+
      MOVE();
      }
 
@@ -69,13 +70,14 @@ public void MOVE(){
         {
             a.SetInteger("Hori",0);
             a.SetInteger("Veritical",1);
-            particle.transform.rotation = Quaternion.Euler(90,0,0);
+            Particle.transform.rotation = Quaternion.Euler(90,0,0);
               if(diffenty()==1){
                y=y-1;
            }else{
                y=y+1;
            }
            WalkAudio.Play();
+           Particle.transform.rotation = Quaternion.Euler(90,0,0);
              if(checknumber()==1&& y<14){ 
             newaddress = new Vector3(man.transform.position.x,man.transform.position.y+1,man.transform.position.z);
              tweener.AddTween(man.transform, man.transform.position,newaddress, 0.2f);     
@@ -93,13 +95,14 @@ public void MOVE(){
         {
             a.SetInteger("Hori",0);
             a.SetInteger("Veritical",-1);
-            particle.transform.rotation = Quaternion.Euler(-90,0,0);
+            Particle.transform.rotation = Quaternion.Euler(-90,0,0);
               if(diffenty()==1){
                y=y+1;
            }else{
                y=y-1;
            }
            WalkAudio.Play();
+           Particle.transform.rotation = Quaternion.Euler(-90,0,0);
              if(checknumber()==1&& y<14){
             newaddress = new Vector3(man.transform.position.x,man.transform.position.y-1,man.transform.position.z);
             tweener.AddTween(man.transform, man.transform.position,newaddress, 0.2f);
@@ -116,13 +119,14 @@ public void MOVE(){
         {
              a.SetInteger("Veritical",0);
             a.SetInteger("Hori",-1);
-            particle.transform.rotation = Quaternion.Euler(0,90,0);
+            Particle.transform.rotation = Quaternion.Euler(0,90,0);
             if(different()==1){
                x=x-1;
            }else{
                x=x+1;
            }
             WalkAudio.Play();
+            Particle.transform.rotation = Quaternion.Euler(0,90,0);
              if(checknumber()==1&& x<=13){
             newaddress = new Vector3(man.transform.position.x-1,man.transform.position.y,man.transform.position.z);
             tweener.AddTween(man.transform, man.transform.position,newaddress, 0.2f);
@@ -139,7 +143,7 @@ public void MOVE(){
 
              a.SetInteger("Veritical",0);
             a.SetInteger("Hori",1);
-            particle.transform.rotation = Quaternion.Euler(0,-90,0);
+            Particle.transform.rotation = Quaternion.Euler(0,-90,0);
            if(different()==1){
             x=x+1;
 
@@ -147,6 +151,7 @@ public void MOVE(){
             x=x-1;
            }
            WalkAudio.Play();
+           Particle.transform.rotation = Quaternion.Euler(0,-90,0);
             if(checknumber()==1&& x<=13){
                 
               newaddress = new Vector3(man.transform.position.x+1,man.transform.position.y,man.transform.position.z);
@@ -216,9 +221,9 @@ public int different(){
                 firstInput = currentInput;
                  WalkAudio.Stop();
            WalkAudio.loop = false;
-            particle.SetActive(false);
+
            a.GetComponent<Animator>().enabled = false;
-           
+           Particle.SetActive(false);
                 return 2;
       
             }else if(diffenty()==1 && currentInput == 1 && levelMap[y-1,x]==5 ){
