@@ -26,9 +26,8 @@ void Start () {
 
   void Update()
     {
-            //Debug.Log(times);
-        times -= Time.deltaTime;  //减时间]
-        if (times < 0)  //倒计时
+        times -= Time.deltaTime; 
+        if (times < 0)  
         {
         
            create();
@@ -42,7 +41,6 @@ void Start () {
 
 private void create(){
 
-     //产生物体
        i = Random.Range(0,4);
           
            if(i==0){
