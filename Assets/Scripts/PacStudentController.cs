@@ -9,6 +9,8 @@ public class PacStudentController : MonoBehaviour
     public AudioSource WalkAudio;
      private Tweener tweener;
     public Animator a;
+
+    public GameObject Particle;
     private int y = 1;
     private int x = 1;
     
@@ -52,7 +54,9 @@ public class PacStudentController : MonoBehaviour
         }
 
         
-     if(man.transform.position == newaddress){   
+     if(man.transform.position == newaddress){ 
+         a.GetComponent<Animator>().enabled = true;  
+         Particle.SetActive(true);
      MOVE();
      }
 
@@ -71,6 +75,7 @@ public void MOVE(){
                y=y+1;
            }
            WalkAudio.Play();
+           Particle.transform.rotation = Quaternion.Euler(90,0,0);
              if(checknumber()==1&& y<14){ 
             newaddress = new Vector3(man.transform.position.x,man.transform.position.y+1,man.transform.position.z);
              tweener.AddTween(man.transform, man.transform.position,newaddress, 0.2f);     
@@ -95,6 +100,7 @@ public void MOVE(){
                y=y-1;
            }
            WalkAudio.Play();
+           Particle.transform.rotation = Quaternion.Euler(-90,0,0);
              if(checknumber()==1&& y<14){
             newaddress = new Vector3(man.transform.position.x,man.transform.position.y-1,man.transform.position.z);
             tweener.AddTween(man.transform, man.transform.position,newaddress, 0.2f);
@@ -118,6 +124,7 @@ public void MOVE(){
                x=x+1;
            }
             WalkAudio.Play();
+            Particle.transform.rotation = Quaternion.Euler(0,90,0);
              if(checknumber()==1&& x<=13){
             newaddress = new Vector3(man.transform.position.x-1,man.transform.position.y,man.transform.position.z);
             tweener.AddTween(man.transform, man.transform.position,newaddress, 0.2f);
@@ -142,6 +149,7 @@ public void MOVE(){
             x=x-1;
            }
            WalkAudio.Play();
+           Particle.transform.rotation = Quaternion.Euler(0,-90,0);
             if(checknumber()==1&& x<=13){
                 
               newaddress = new Vector3(man.transform.position.x+1,man.transform.position.y,man.transform.position.z);
@@ -211,6 +219,8 @@ public int different(){
                 firstInput = currentInput;
                  WalkAudio.Stop();
            WalkAudio.loop = false;
+           a.GetComponent<Animator>().enabled = false;
+           Particle.SetActive(false);
                 return 2;
       
             }else if(diffenty()==1 && currentInput == 1 && levelMap[y-1,x]==5 ){
